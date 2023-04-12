@@ -29,6 +29,7 @@
         "laminas": {
             "component": "Laminas\\Mvc\\Console"
         }
+		
     },
 	"repositories": [
 		{
